@@ -1,11 +1,12 @@
 {
   "tuioPort": 3333,
+  "flipY": true,
   "pucks": [
     { "puckId": 1, "option": "gov", "name": "Government & National Talent" },
     { "puckId": 2, "option": "edu", "name": "Education & Universities" },
     { "puckId": 3, "option": "biz", "name": "Business & Talent Leaders" },
-    { "puckId": 7, "option": "ind", "name": "Industry & Professional Standards" },
-    { "puckId": 12, "option": "par", "name": "Assessment Partnerships" },
-    { "puckId": 0, "option": "tai", "name": "Design studio" }
+    { "puckId": 4, "option": "ind", "name": "Industry & Professional Standards" },
+    { "puckId": 5, "option": "par", "name": "Assessment Partnerships" },
+    { "puckId": 6, "option": "tai", "name": "Design studio" }
   ]
 }
